@@ -17,7 +17,7 @@
 
 ![harusaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=harusaku&theme=discord_old_blurple&show_icons=true)
 
-## Languages and Tools
+<!-- ## Languages and Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -32,7 +32,7 @@
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</p>
+</p> -->
 
 
 ## Trophy
