@@ -5,11 +5,11 @@
   <a href="https://github.com/harusaku">
     <img height="20" src="https://img.shields.io/github/followers/harusaku?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/chrg">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/chrg/posts.svg" />
+  <a href="http://qiita.com/harusaku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/harusaku/posts.svg" />
   </a>
-  <a href="http://qiita.com/chrg">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/chrg/contributions.svg" />
+  <a href="http://qiita.com/harusaku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/harusaku/contributions.svg" />
   </a>
 </p>
 
