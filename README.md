@@ -13,9 +13,9 @@
   </a>
 </p>
 
-## Stats
+<!-- ## Stats -->
 
-![harusaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=harusaku&theme=discord_old_blurple&show_icons=true&count_private=true)
+<!-- ![harusaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=harusaku&theme=discord_old_blurple&show_icons=true&count_private=true) -->
 
 <!-- ## Languages and Tools
 
