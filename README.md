@@ -42,5 +42,5 @@
 ## Details
 
 ![](./profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
-![](./profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg) ![](./profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
-![](./profile-summary-card-output/discord_old_blurple/3-stats.svg) ![](./profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
+![](./profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg) ![](./profile-summary-card-output/discord_old_blurple/3-stats.svg)
+<!-- ![](./profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg) ![](./profile-summary-card-output/discord_old_blurple/4-productive-time.svg) -->
